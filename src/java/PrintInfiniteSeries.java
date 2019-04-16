@@ -1,4 +1,4 @@
-package java;
+package src.java;
 
 public class PrintInfiniteSeries {
     public static void main(String[] args) {
