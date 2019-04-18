@@ -1,4 +1,4 @@
-package src.java;
+package main;
 
 public class FindMinimumPlatform {
     public static void main(String[] args) {

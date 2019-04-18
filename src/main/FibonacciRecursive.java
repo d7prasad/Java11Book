@@ -1,4 +1,4 @@
-package src.java;
+package main;
 
 public class FibonacciRecursive {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package src.main.java;
+package main;
 
 public class FindMissingNumber {
     public static void main(String[] args) {

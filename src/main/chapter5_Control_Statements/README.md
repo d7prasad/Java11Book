@@ -19,4 +19,6 @@ switch (expression) {
 
 1. Duplicate case values are not allowed. The type of each value must be compatible with the type of expression. - Compilation error
 
-1. 
+1. No two case constants in the same switch can have identical values. Of course, a switch statement and an enclosing outer switch can have case constants in common.
+
+1. If you need to select among a large group of values, a switch statement will run much faster than the equivalent logic coded using a sequence of if-elses
