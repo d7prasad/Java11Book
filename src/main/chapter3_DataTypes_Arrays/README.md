@@ -57,7 +57,7 @@
     
     
 > Type inference with local variable - **JAVA 10** feature
-1. the context-sensitive identifier var was added to Java as a reserved type nam
+1. the context-sensitive identifier var was added to Java as a reserved type name
 1. var avg = 10.0; // type is inferred as double because the initializer 10.0 is of type double.
 1. int var = 1; // In this case, var is simply a user-defined identifier.
 1. var myArray = new int[10]; // This is valid.
