@@ -1,4 +1,4 @@
-package main;
+package src.main;
 
 public class LinkedList {
 
@@ -58,7 +58,6 @@ public class LinkedList {
 
         list = insert(list, 1);
         list = insert(list, 2);
-        printList(list);
         list = reverse(list);
         printList(list);
     }
